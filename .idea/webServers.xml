@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b937af1b-8d94-4f54-9bda-eefbdeff364e" name="capstone-project">
+        <fileTransfer rootFolder="/home/aneagleg/public_html" accessType="SFTP" host="aneagle.greenriverdev.com" port="18765" sshConfigId="5dfeb44a-d075-4a13-9c8c-c1cdd8a95c55" sshConfig="aneagleg@aneagle.greenriverdev.com:18765 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
